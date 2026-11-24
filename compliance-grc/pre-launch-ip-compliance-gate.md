@@ -31,15 +31,15 @@ All four gates must pass before moving an asset or listing to production.
 - [ ] Audited third-party stock assets and AI-assisted visual elements for clear commercial rights and policy compliance
 
 ### Gate 3 — SEO & Metadata Keyword Quarantine
-- [ ] Separated competitor brand names, third-party trademarks, and risky terms into a dedicated **Excluded / Quarantine Tab** during keyword mining[cite: 3]
-- [ ] Audited front-end copy (**Title, Bullets, Description, URL slug**) for zero accidental brand or trademark inclusion[cite: 4]
-- [ ] Audited hidden **Back-End Search Terms** and metadata attributes to confirm strict exclusion of third-party marks[cite: 4]
+- [ ] Separated competitor brand names, third-party trademarks, and risky terms into a dedicated **Excluded / Quarantine Tab** during keyword mining
+- [ ] Audited front-end copy (**Title, Bullets, Description, URL slug**) for zero accidental brand or trademark inclusion
+- [ ] Audited hidden **Back-End Search Terms** and metadata attributes to confirm strict exclusion of third-party marks
 - [ ] Applied trademarked competitor terms to **PPC Negative Keyword** lists where required by channel policy
 
 ### Gate 4 — Platform Style Guides & Policy Verification
-- [ ] Reviewed listing formatting, claims, and imagery against current marketplace/channel Style Guides[cite: 4]
-- [ ] Completed final language QA / proofreading to eliminate ambiguous claims or policy-triggering typos[cite: 4]
-- [ ] Confirmed post-launch indexing and live compliance check is scheduled within 48 hours of publication[cite: 4]
+- [ ] Reviewed listing formatting, claims, and imagery against current marketplace/channel Style Guides
+- [ ] Completed final language QA / proofreading to eliminate ambiguous claims or policy-triggering typos
+- [ ] Confirmed post-launch indexing and live compliance check is scheduled within 48 hours of publication
 
 ---
 
