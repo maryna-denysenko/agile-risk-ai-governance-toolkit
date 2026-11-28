@@ -20,8 +20,9 @@ Most Agile frameworks optimize purely for speed; most legal and compliance check
 | **Compliance & GRC** | `compliance-grc/pre-launch-ip-compliance-gate.md` | 4-point US/EU trademark, copyright, and SEO keyword quarantine checklist |
 | **AI Workflows** | `ai-workflows/sprint-0-ai-readiness-checklist.md` | 5-point Human-in-the-Loop (HITL) compliance gate (PII, IP, EU AI Act / C2PA) |
 | **AI Workflows** | `ai-workflows/hitl-pm-prompt-templates.md` | Sanitized prompt templates for Charters, Risk Registers, and Executive Briefs |
+| **AI Governance** | `ai-workflows/ai-tool-evaluation-adoption-sop.md` | Shadow AI prevention via 4-pillar scoring matrix, privacy veto gates, and 2-week sandbox pilot |
 
 ---
 
 ## Visual Case Studies
-Full executive presentations demonstrating these frameworks in action (Omnichannel POS Rollout, 7x E-Commerce Scale, and AI-Augmented Agile Playbook) are available in the **Featured** section of my [LinkedIn Profile](https://www.linkedin.com/in/maryna-denysenko/).
+Full executive presentations demonstrating these frameworks in action (Omnichannel POS Rollout, 7x E-Commerce Scale, and AI-Augmented Agile Playbook) are available in the **Featured** section of my [LinkedIn Profile](https://www.linkedin.com/in/maryna-denysenko/) and in my [Interactive Notion Portfolio](https://maryna-denysenko.notion.site).
